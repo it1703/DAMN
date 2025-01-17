@@ -1,0 +1,25 @@
+ 
+ body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h1{
+    color: rgb(170, 220, 214);
+    border-style: double;
+    border-color: aquamarine;
+    border-width: 2px;
+    padding: 15px;
+}
+
+p{
+    color: brown;
+    word-spacing: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}

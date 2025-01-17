@@ -1,0 +1,40 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-family:  sans-serif;
+    font-weight: 400;
+    color: rgb(149, 182, 120);
+}
+body{
+    margin: 0px;
+    background-color: rgb(216, 232, 215);
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+}
+.grid img{
+    border: 2px solid rgb(15, 2, 2);
+    border-radius: 50px;
+}
+.productos{
+     
+    border-radius: 20px;
+    background-color: rgb(177, 231, 145);
+    padding: 40px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+.productos:hover{
+
+    transform: scale(1.2);
+}
